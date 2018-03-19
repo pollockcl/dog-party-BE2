@@ -1,0 +1,36 @@
+.header_bar{
+    background-color: lightblue;
+    text-align: right;
+    width: 100%;
+    height: 100px;
+}
+
+.header_links{
+    display: inline-block;
+    margin-right: 20px;
+    color: white;
+    margin-top: 3.5%;
+}
+
+.header_img{
+    display: inline-block;
+    margin-left: 20px;
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-top: 3.4%;
+}
+
+.park{
+    width: 100%;
+    height: 500px;
+    z-index: -1;
+    position: absolute;
+}
+
+.dog1{
+    border-radius: 50%;
+    margin-left: 45%;
+    margin-top: 10%;
+
+}
